@@ -1,0 +1,17 @@
+{
+  "name": "fezemu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rykiln",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon --ignore *.json"
+  }
+}
